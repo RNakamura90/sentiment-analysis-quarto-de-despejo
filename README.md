@@ -1,6 +1,6 @@
 ## Sentiment Analysis - Quarto de Despejo: Diário de uma Favelada
 ---
-This is a sentiment analysis comparison from the book Quarto de Despejo: Diário de uma Favelada (Jesus, C. M. 1960), using the pysentimiento library (Pérez, J. M., Giudici, J. C. & Luque, F. 2021) and Vader (Hutto, C. J. & Gilbert, E. E. 2014).
+This is a sentiment analysis comparison from the book Quarto de Despejo: Diário de uma Favelada (Jesus, C. M. 1960), using the pysentimiento library (Pérez, J. M., Giudici, J. C. & Luque, F. 2021) and Vader (Hutto, C. J. & Gilbert, E. E. 2014). As the text is divided into dated diary entries, the analyzes were performed by entry, enabling sentiment analysis by period.
 
 The results are discussed in the notebook itself. Some analyses, such as the top X word count by sentiment/by analysis, require greater expertise in the area, probably the collaboration of a linguist.
 
